@@ -26,7 +26,7 @@
 
 ## Screenshot
 
-![Screenshot (54)](https://user-images.githubusercontent.com/71462708/110729091-19cc0c80-81ec-11eb-90e5-67a58c563dd4.png)
+![Screenshot (54)](https://antonneturner.github.io/Portofolio/)
 
 ### Deployment
 
